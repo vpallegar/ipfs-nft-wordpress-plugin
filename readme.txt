@@ -17,7 +17,7 @@ This plugin allows you to save your wordpress post data & media files to a decen
 Save your wordpress post data (including any acf custom fields) as well as media files to a decentralized storage platform (IPFS).  Media saved on IPFS can be minted into an NFT via the Ethereum or Polygon(Matic) networks.  Once setup, only takes a few clicks to save or mint items.
 
 ## Requirements
-1.  Wordpress 8.5 or later.
+1.  Wordpress 5.8 or later.
 2.  IPFS Infura Node (other options coming soon).  Signup for free ipfs node at [https://infura.io/product/ipfs](https://infura.io/product/ipfs).
 3.  You will need an Ethereum or Polygon Contract Address if you want to Mint media as NFT's.
 

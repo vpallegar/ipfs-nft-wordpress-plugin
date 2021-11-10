@@ -3,7 +3,7 @@
 Plugin to save posts, pages & media onto IPFS.  Also ability to Mint any saved ipfs media.
 
 ## Requirements
-1.  Wordpress 8.5 or later.
+1.  Wordpress 5.8 or later.
 2.  IPFS Infura Node (other options coming soon).  Signup for free ipfs node at https://infura.io/product/ipfs.
 3.  You will need an Ethereum or Polygon Contract Address if you want to Mint media as NFT's.
 
