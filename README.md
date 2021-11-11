@@ -2,6 +2,12 @@
 ** Experimental - Still under active development so please use at own risk. **
 Plugin to save posts, pages & media onto IPFS.  Also ability to Mint any saved ipfs media.
 
+![Settings Screen](assets/screenshot-1.png)
+![Save Post revision to IPFS](assets/screenshot-2.png)
+![Save Media to IPFS](assets/screenshot-3.png)
+![Mint Media](assets/screenshot-4.png)
+
+
 ## Requirements
 1.  Wordpress 5.8 or later.
 2.  IPFS Infura Node (other options coming soon).  Signup for free ipfs node at https://infura.io/product/ipfs.
